@@ -34,4 +34,4 @@ cd weather-api-project`
 Pull requests are welcome! Open an issue for discussions before making major changes.
 
 ## 📬 Contact ##
-For inquiries, reach out via [(praveenclash004@gmail.com) ](praveenclash004@gmail.com)or create an issue.
+For inquiries, reach out via [(praveenclash004@gmail.com) ](praveenclash004@gmail.com)or create an issue
